@@ -1,0 +1,10 @@
+build/
+generated/
+dist/
+tests/data/
+*.user
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
